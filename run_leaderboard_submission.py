@@ -1,13 +1,3 @@
-"""
-Generate leaderboard submission files (1-20 and 21-120) using the clinical reasoning pipeline.
-Run this on your XML data, then run build_codabench_subtask1_submission.py to create the zip.
-
-Usage:
-  python run_leaderboard_submission.py [path_to_archehr-qa.xml]
-
-If no path is given, looks for data/archehr-qa.xml or archehr-qa.xml in current directory.
-Outputs: submission_clinical_reasoning_1-20.json, submission_clinical_reasoning_21-120.json
-"""
 
 import json
 import sys
@@ -95,3 +85,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

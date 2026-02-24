@@ -8,7 +8,9 @@ Pipeline for **ArchEHR-QA 2026** (Archer) **Subtask 1**: convert patient-authore
 
 ## Leaderboard results (Codabench)
 
-**Place:** 5th out of 84 submissions (36 participants). Competition submission affiliated with [Data Mining Lab @ Yale](https://github.com/Data-Mining-Lab-Yale) (cited for affiliation only). 
+**Team:** [Data Mining Lab @ Yale](https://github.com/Data-Mining-Lab-Yale)  
+**Participant:** [Elyasirankhah](https://github.com/Elyasirankhah)  
+**Place:** 5th out of 84 submissions (36 participants).
 
 We made the **official leaderboard**, placing among the top 5 strong systems in the competition.
 
@@ -58,3 +60,4 @@ Dev/test data are not included (access via [PhysioNet](https://physionet.org/) p
 ## License
 
 MIT License. See [LICENSE](LICENSE). Dataset terms apply via PhysioNet per ArchEHR-QA 2026.
+
